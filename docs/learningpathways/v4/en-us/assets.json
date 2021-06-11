@@ -9,5 +9,16 @@
     "Source": "Infotechtion",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "This is new"
+  },
+  {
+    "Id": "08b95abd-e81c-4aee-87c9-c9b9daafad1d",
+    "Title": "Apply Retention Labels",
+    "Description": "Learn how to apply retention labels",
+    "Url": "https://kksimplifies.com/retention-labels/",
+    "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+    "SubjectId": "",
+    "Source": "Infotechtion",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "This is new thing about retention labels"
   }
 ]
