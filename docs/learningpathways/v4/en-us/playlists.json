@@ -12,7 +12,7 @@
     "Description": "Learn how to get started quickly with Microsoft 365 Retention Policies",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": []
+    "Assets": ["b451769d-c1d4-4e92-ab83-78ffcfc7e648"]
   },
   {
     "Id": "22389654-cac5-435c-9276-0d01de5aef23",
@@ -27,6 +27,6 @@
     "Description": "Learn how to manually apply retention labels to document and emails",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
-    "Assets": []
+    "Assets": ["b451769d-c1d4-4e92-ab83-78ffcfc7e648"]
   }
 ]
