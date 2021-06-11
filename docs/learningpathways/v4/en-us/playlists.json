@@ -28,5 +28,20 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": ["08b95abd-e81c-4aee-87c9-c9b9daafad1d"]
+  },
+  {
+    "Id": "22389654-cac5-435c-9276-0d01de5aef23",
+    "Title": "Records Management Assessment",
+    "Image": "images/playlists/manage_meetings.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+    "SubjectId": "",
+    "Source": "Infotechtion",
+    "CatId": "c8d3a1c1-9a39-4b0e-a9eb-de84e3a0a3db",
+    "Description": "How many can you get right?",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": ["d242445d-e6ab-4b27-b8dc-85b255757b93"]
   }
 ]
