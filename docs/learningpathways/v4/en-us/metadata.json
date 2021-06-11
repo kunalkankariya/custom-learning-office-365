@@ -37,6 +37,15 @@
           "SubjectId": "",
           "Source": "Infotechtion",
           "SubCategories": []
+        },
+        {
+          "Id": "c8d3a1c1-9a39-4b0e-a9eb-de84e3a0a3db",
+          "Name": "Assessment",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+          "SubjectId": "",
+          "Source": "Infotechtion",
+          "SubCategories": []
         }
       ]
     },
