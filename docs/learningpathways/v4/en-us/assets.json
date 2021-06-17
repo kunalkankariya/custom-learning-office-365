@@ -31,5 +31,16 @@
     "Source": "Infotechtion",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "This is new thing about retention labels"
+  },
+  {
+    "Id": "9a2344e6-4afb-4585-9b7d-51454d8f09ab",
+    "Title": "Infotechtion OneDrive",
+    "Description": "Custom OneDrive",
+    "Url": "https://bp2d.nl/expertise-platform/bouwen-van-structuur-in-microsoft365/",
+    "TechnologyId": "5fef009a-bd5c-44dc-8d7d-cd234eed9845",
+    "SubjectId": "",
+    "Source": "Infotechtion",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "This is new thing about onedrive from Linda's site"
   }
 ]
