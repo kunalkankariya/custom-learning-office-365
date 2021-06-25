@@ -12,43 +12,7 @@
     }
   ],
   "Categories": [
-    {
-      "Id": "efe41789-3848-44ae-95d5-19a4b23e073c",
-      "Name": "Records Management",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Infotechtion",
-      "SubCategories": [
-        {
-          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "Retention Policies",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
-          "SubjectId": "",
-          "Source": "Infotechtion",
-          "SubCategories": []
-        },
-        {
-          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Retention Labels",
-          "Image": "images/categories/recommended.png",
-          "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
-          "SubjectId": "",
-          "Source": "Infotechtion",
-          "SubCategories": []
-        },
-        {
-          "Id": "c8d3a1c1-9a39-4b0e-a9eb-de84e3a0a3db",
-          "Name": "Assessment",
-          "Image": "images/categories/recommended.png",
-          "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
-          "SubjectId": "",
-          "Source": "Infotechtion",
-          "SubCategories": []
-        }
-      ]
-    },
+
     {
         "Id": "6dc162f1-1413-43e9-97b3-eb9776ccd0c9",
         "Name": "Collaboration",
@@ -77,25 +41,6 @@
           }
         ]
       },
-      {
-          "Id": "6dc162f1-1413-43e9-97b3-eb9776ccd0c9",
-          "Name": "Social collaboration",
-          "Image": "",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Infotechtion",
-          "SubCategories": [
-            {
-              "Id": "b85e1c0d-b9ff-4f2c-bf0c-d4d06d65dce5",
-              "Name": "Sharing",
-              "Image": "images/categories/first_days.png",
-              "TechnologyId": "5fef009a-bd5c-44dc-8d7d-cd234eed9845",
-              "SubjectId": "",
-              "Source": "Infotechtion",
-              "SubCategories": []
-            }
-          ]
-        },
         {
           "Id": "efe41789-3848-44ae-95d5-19a4b23e073c",
           "Name": "IT security and compliancy",
@@ -143,6 +88,62 @@
             {
               "Id": "c8d3a1c1-9a39-4b0e-a9eb-de84e3a0a3db",
               "Name": "Manage and Protect Cloud Applications",
+              "Image": "images/categories/recommended.png",
+              "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+              "SubjectId": "",
+              "Source": "Infotechtion",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+            "Id": "6dc162f1-1413-43e9-97b3-eb9776ccd0c9",
+            "Name": "Social collaboration",
+            "Image": "",
+            "TechnologyId": "",
+            "SubjectId": "",
+            "Source": "Infotechtion",
+            "SubCategories": [
+              {
+                "Id": "b85e1c0d-b9ff-4f2c-bf0c-d4d06d65dce5",
+                "Name": "Sharing",
+                "Image": "images/categories/first_days.png",
+                "TechnologyId": "5fef009a-bd5c-44dc-8d7d-cd234eed9845",
+                "SubjectId": "",
+                "Source": "Infotechtion",
+                "SubCategories": []
+              }
+            ]
+          },
+        {
+          "Id": "efe41789-3848-44ae-95d5-19a4b23e073c",
+          "Name": "Records Management",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Infotechtion",
+          "SubCategories": [
+            {
+              "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+              "Name": "Retention Policies",
+              "Image": "images/categories/first_days.png",
+              "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+              "SubjectId": "",
+              "Source": "Infotechtion",
+              "SubCategories": []
+            },
+            {
+              "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+              "Name": "Retention Labels",
+              "Image": "images/categories/recommended.png",
+              "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+              "SubjectId": "",
+              "Source": "Infotechtion",
+              "SubCategories": []
+            },
+            {
+              "Id": "c8d3a1c1-9a39-4b0e-a9eb-de84e3a0a3db",
+              "Name": "Assessment",
               "Image": "images/categories/recommended.png",
               "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
               "SubjectId": "",
