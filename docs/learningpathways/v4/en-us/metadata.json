@@ -2,17 +2,68 @@
   "Technologies": [
     {
       "Id": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
-      "Name": "Microsoft 365 Records Management",
+      "Name": "Collaboration",
       "Subjects": []
     },
     {
-      "Id": "5fef009a-bd5c-44dc-8d7d-cd234eed9845",
-      "Name": "Microsoft 365 Information Protection",
+      "Name": "Information governance",
+      "Subjects": []
+    },
+    {
+      "Name": "Security",
+      "Subjects": []
+    },
+    {
+      "Name": "Apps",
       "Subjects": []
     }
   ],
   "Categories": [
-
+    {
+      "Id": "efe41789-3848-44ae-95d5-19a4b23e073c",
+      "Name": "Determine user type",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Infotechtion",
+      "SubCategories": [
+        {
+          
+          "Name": "End user",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+          "SubjectId": "",
+          "Source": "Infotechtion",
+          "SubCategories": []
+        },
+        {
+          
+          "Name": "Owner",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+          "SubjectId": "",
+          "Source": "Infotechtion",
+          "SubCategories": []
+        },
+        {
+          
+          "Name": "Information manager",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+          "SubjectId": "",
+          "Source": "Infotechtion",
+          "SubCategories": []
+        },
+        {
+          "Name": "Administrator",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+          "SubjectId": "",
+          "Source": "Infotechtion",
+          "SubCategories": []
+        }
+      ]
+    },
     {
         "Id": "6dc162f1-1413-43e9-97b3-eb9776ccd0c9",
         "Name": "Collaboration",
@@ -33,6 +84,25 @@
           {
             "Id": "ce333dfc-bbdd-46ac-bbcb-f5bcca8c83ea",
             "Name": "Data Loss Prevention",
+            "Image": "images/categories/recommended.png",
+            "TechnologyId": "5fef009a-bd5c-44dc-8d7d-cd234eed9845",
+            "SubjectId": "",
+            "Source": "Infotechtion",
+            "SubCategories": []
+          },
+          {
+            "Id": "ce333dfc-bbdd-46ac-bbcb-f5bcca8c83ea",
+            "Name": "Work with Microsoft Teams",
+            "Image": "images/categories/recommended.png",
+            "TechnologyId": "5fef009a-bd5c-44dc-8d7d-cd234eed9845",
+            "SubjectId": "",
+            "Source": "Infotechtion",
+            "SubCategories": []
+          }
+          ,
+          {
+            "Id": "ce333dfc-bbdd-46ac-bbcb-f5bcca8c83ea",
+            "Name": "Work with OneDrive",
             "Image": "images/categories/recommended.png",
             "TechnologyId": "5fef009a-bd5c-44dc-8d7d-cd234eed9845",
             "SubjectId": "",
