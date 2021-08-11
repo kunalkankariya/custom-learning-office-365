@@ -1,46 +1,57 @@
 [
-  {
-    "Id": "b451769d-c1d4-4e92-ab83-78ffcfc7e648",
-    "Title": "Getting Started with Retention Policy",
-    "Description": "This is a introduction to retention policy in M365",
-    "Url": "https://kksimplifies.com/retention-policy/",
-    "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
-    "SubjectId": "",
-    "Source": "Infotechtion",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": "This is new"
-  },
-  {
-    "Id": "08b95abd-e81c-4aee-87c9-c9b9daafad1d",
-    "Title": "Apply Retention Labels",
-    "Description": "Learn how to apply retention labels",
-    "Url": "https://kksimplifies.com/retention-labels/",
-    "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
-    "SubjectId": "",
-    "Source": "Infotechtion",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": "This is new thing about retention labels"
-  },
-  {
-    "Id": "d242445d-e6ab-4b27-b8dc-85b255757b93",
-    "Title": "Assessment",
-    "Description": "How many can you get right?",
-    "Url": "https://kksimplifies.com/m365-records-management-assessment/",
-    "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
-    "SubjectId": "",
-    "Source": "Infotechtion",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": "This is new thing about retention labels"
-  },
-  {
-    "Id": "9a2344e6-4afb-4585-9b7d-51454d8f09ab",
-    "Title": "Infotechtion OneDrive",
-    "Description": "Custom OneDrive",
-    "Url": "https://bp2d.nl/expertise-platform/bouwen-van-structuur-in-microsoft365/",
-    "TechnologyId": "5fef009a-bd5c-44dc-8d7d-cd234eed9845",
-    "SubjectId": "",
-    "Source": "Infotechtion",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": "This is new thing about onedrive from Linda's site"
-  }
-]
+    {
+      "Id": "b451769d-c1d4-4e92-ab83-78ffcfc7e648",
+      "Title": "Getting Started with Retention Policy",
+      "Description": "This is a introduction to retention policy in M365",
+      "Url": "https://kksimplifies.com/retention-policy/",
+      "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+      "SubjectId": "",
+      "Source": "Infotechtion",
+      "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "StatusNote": "This is new"
+    },
+    {
+      "Id": "08b95abd-e81c-4aee-87c9-c9b9daafad1d",
+      "Title": "Apply Retention Labels",
+      "Description": "Learn how to apply retention labels",
+      "Url": "https://kksimplifies.com/retention-labels/",
+      "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+      "SubjectId": "",
+      "Source": "Infotechtion",
+      "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "StatusNote": "This is new thing about retention labels"
+    },
+    {
+      "Id": "d242445d-e6ab-4b27-b8dc-85b255757b93",
+      "Title": "Assessment",
+      "Description": "How many can you get right?",
+      "Url": "https://kksimplifies.com/m365-records-management-assessment/",
+      "TechnologyId": "8369d93e-3824-402f-8887-f6ee2a0ffb4c",
+      "SubjectId": "",
+      "Source": "Infotechtion",
+      "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "StatusNote": "This is new thing about retention labels"
+    },
+    {
+      "Id": "9a2344e6-4afb-4585-9b7d-51454d8f09ab",
+      "Title": "Infotechtion OneDrive",
+      "Description": "Custom OneDrive",
+      "Url": "https://bp2d.nl/expertise-platform/bouwen-van-structuur-in-microsoft365/",
+      "TechnologyId": "5fef009a-bd5c-44dc-8d7d-cd234eed9845",
+      "SubjectId": "",
+      "Source": "Infotechtion",
+      "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "StatusNote": "This is new thing about onedrive from Linda's site"
+    },
+    {
+        "Id": "2d952c0d-765f-4197-ae68-e0da7196a820",
+        "Title": "Applying metadata to a document in SharePoint",
+        "Description": "We have several approaches to apply metadata to a file that is uploaded to SharePoint",
+        "Url": "https://edu-infotechtion.com/2021/08/11/add-update-sp-metadata/",
+        "TechnologyId": "0aeec4d6-429e-4f78-b5ab-82decf7ddd41",
+        "SubjectId": "",
+        "Source": "Infotechtion",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      }
+  ]
