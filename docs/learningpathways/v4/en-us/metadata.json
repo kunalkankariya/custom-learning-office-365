@@ -307,5 +307,10 @@
       "Id": "c11c485b-496d-479b-88a3-1744a7a028d7",
       "Name": "New"
     }
+  ],
+  "AssetOrigins": [
+    "https://support.office.com",
+    "https://docs.microsoft.com",
+    "https://edu-infotechtion.com/"
   ]
 }
