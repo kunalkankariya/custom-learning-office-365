@@ -43,5 +43,20 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": ["d242445d-e6ab-4b27-b8dc-85b255757b93"]
+  },
+  {
+    "Id": "febc14dd-535e-4315-bd76-a6b9618eb58a",
+    "Title": "Adding metadata to a file",
+    "Image": "images/playlists/cells.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "2272dbd4-904d-4fc8-bed0-739b05ebebac",
+    "TechnologyId": "8530a9b2-261b-4f47-af79-61605f0e994a",
+    "SubjectId": "",
+    "Source": "Infotechtion",
+    "CatId": "194fa822-f201-4c43-8ce9-0b1ae0f2c074",
+    "Description": "Let's see how we can apply metadata to a file that was uploaded to a SharePoint document library",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [""]
   }
 ]
