@@ -235,6 +235,7 @@
       "Source": "Infotechtion",
       "SubCategories": [
         {
+          "Id": "194fa822-f201-4c43-8ce9-0b1ae0f2c074",
           "Name": "Classifying Information in SharePoint Online",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "0aeec4d6-429e-4f78-b5ab-82decf7ddd41",
